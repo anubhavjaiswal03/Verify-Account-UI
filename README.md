@@ -6,7 +6,6 @@
 
 - Hacky Implementation
   - needs better ui implementation
-  - needs better flow-through on type
   - not compatible with mobile devices
 
 [**better `<input type="number">`**](https://danf.ca/blog/2013/09/19/input-type-number-and-ios-numeric-keypad/)
