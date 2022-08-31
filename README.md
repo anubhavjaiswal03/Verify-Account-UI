@@ -9,7 +9,7 @@
   - not compatible with mobile devices
 
 [**better `<input type="number">`**](https://danf.ca/blog/2013/09/19/input-type-number-and-ios-numeric-keypad/)
-
+[**beter javascript implementation**](https://codepen.io/RobertAron/pen/gOLLXLo)
 To make numpad appear for number fields
 
 ```html
