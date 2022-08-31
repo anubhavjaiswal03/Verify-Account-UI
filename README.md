@@ -8,3 +8,17 @@
   - needs better ui implementation
   - needs better flow-through on type
   - not compatible with mobile devices
+
+[**better `<input type="number">`**](https://danf.ca/blog/2013/09/19/input-type-number-and-ios-numeric-keypad/)
+
+To make numpad appear for number fields
+
+```html
+<input
+	type="number"
+	min="0"
+	inputmode="numeric"
+	pattern="[0-9]*"
+	title="Non-negative integral number"
+/>
+```
